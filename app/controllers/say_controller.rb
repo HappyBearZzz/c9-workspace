@@ -4,5 +4,6 @@ class SayController < ApplicationController
   end
 
   def goodbye
+    'goodbye'
   end
 end
